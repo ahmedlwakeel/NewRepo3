@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRepo3", "TestRepo3\TestRepo3.csproj", "{7CA07D6A-D23C-405C-9B71-1CB866D46942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA07D6A-D23C-405C-9B71-1CB866D46942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA07D6A-D23C-405C-9B71-1CB866D46942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA07D6A-D23C-405C-9B71-1CB866D46942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA07D6A-D23C-405C-9B71-1CB866D46942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
